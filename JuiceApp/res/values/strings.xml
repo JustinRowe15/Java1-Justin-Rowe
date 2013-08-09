@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JuiceApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="fruits">Fruits</string>
+    <string name="apple">Apples</string>
+    <string name="orange">Oranges</string>
+    <string name="strawberry">Strawberries</string>
+    <string name="blackberry">Blackberries</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="carrot">Carrots</string>
+    <string name="spinach">Spinach</string>
+    <string name="tomato">Tomatoes</string>
+    <string name="celery">Celery</string>
+
+</resources>
