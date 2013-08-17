@@ -1,0 +1,10 @@
+<resources>
+    <integer name="apple">10</integer>
+    <integer name="orange">6</integer>
+    <integer name="strawberry">20</integer>
+    <integer name="blackberry">30</integer>
+    <integer name="carrot">10</integer>
+    <integer name="spinach">30</integer>
+    <integer name="tomato">4</integer>
+    <integer name="celery">8</integer>
+</resources>
